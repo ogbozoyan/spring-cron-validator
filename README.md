@@ -22,6 +22,8 @@ Next few instances:
 2024-02-11  19:30:00
 Enter cron expression (or type 'exit' to quit): e
 Invalid cron expression
+Enter cron expression (or type 'exit' to quit): 0
+Invalid cron expression
 Enter cron expression (or type 'exit' to quit): exit
 ```
 
